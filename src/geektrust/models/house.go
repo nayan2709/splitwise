@@ -2,7 +2,7 @@ package expense
 
 import (
 	"fmt"
-	constants "geektruct/constants"
+	constants "geektrust/constants"
 	"math"
 )
 

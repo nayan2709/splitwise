@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"geektruct/expense"
+	"geektrust/expense"
 	"os"
 	"strings"
 )

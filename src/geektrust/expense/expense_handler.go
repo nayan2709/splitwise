@@ -2,8 +2,8 @@ package expense
 
 import (
 	"fmt"
-	constants "geektruct/constants"
-	model "geektruct/models"
+	constants "geektrust/constants"
+	model "geektrust/models"
 	"strconv"
 )
 
